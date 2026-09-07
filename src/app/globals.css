@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-poppins);
+  --font-serif: var(--font-poppins);
+
+  /* Green (primary brand) */
+  --color-primary-50: #f2f7f2;
+  --color-primary-100: #e0eee3;
+  --color-primary-200: #c0ddc7;
+  --color-primary-300: #94c3a1;
+  --color-primary-400: #5f9f72;
+  --color-primary-500: #3f8055;
+  --color-primary-600: #2f6743;
+  --color-primary-700: #275338;
+  --color-primary-800: #21422e;
+  --color-primary-900: #1b3627;
+  --color-primary-950: #0f2017;
+
+  /* Red (secondary accent) */
+  --color-accent-50: #fbf3f0;
+  --color-accent-100: #f6e1dc;
+  --color-accent-200: #eec2b9;
+  --color-accent-300: #e09a8c;
+  --color-accent-400: #d06b58;
+  --color-accent-500: #bf4b37;
+  --color-accent-600: #a63a29;
+  --color-accent-700: #8a3224;
+  --color-accent-800: #6f2b21;
+  --color-accent-900: #5b271f;
+
+  /* Warm orange (tertiary accent) */
+  --color-warm-50: #fdf6ee;
+  --color-warm-100: #fae9d4;
+  --color-warm-200: #f4d1a7;
+  --color-warm-300: #ecb472;
+  --color-warm-400: #e3944a;
+  --color-warm-500: #d97a2e;
+  --color-warm-600: #c76325;
+  --color-warm-700: #a54d21;
+  --color-warm-800: #843f20;
+  --color-warm-900: #6b351e;
+
+  /* Cream (off-white background) */
+  --color-cream: #faf6ef;
+  --color-cream-dark: #f3ecdf;
+
+  /* Grey (neutral) */
+  --color-neutral-50: #f8f8f6;
+  --color-neutral-100: #efefea;
+  --color-neutral-200: #e0e0d8;
+  --color-neutral-300: #c8c8bd;
+  --color-neutral-400: #a4a498;
+  --color-neutral-500: #7b7b70;
+  --color-neutral-600: #5b5b50;
+  --color-neutral-700: #44443c;
+  --color-neutral-800: #2f2f2a;
+  --color-neutral-900: #20201d;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-poppins), Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.product-lift {
+  transition: transform 350ms ease;
+  will-change: transform;
+}
+
+@media (hover: hover) {
+  .product-lift:hover {
+    transform: translateY(-25px);
+  }
+}
+

@@ -1,0 +1,37 @@
+# Maamis
+
+> Maamis is a family run Indian spice brand offering handcrafted masalas, whole spices, and authentic regional blends, alongside a collection of recipes and stories from the world of Indian spices.
+
+## About
+
+Maamis sources whole spices directly from trusted farms across India, then sun dries and grinds them in small batches to preserve aroma and heat. The site presents the product range, detailed recipes that use the masalas, and blog-style stories covering spice history, health, and storage.
+
+## Top-level pages
+
+- [Home](https://www.maamis.com/): Landing page with brand story, featured products, why Maamis, and recipe highlights.
+- [Products](https://www.maamis.com/products): All masalas, whole spices, herbs, and blends organized by category.
+- [Recipes](https://www.maamis.com/recipes): Browse recipes and stories; filterable by recipes or blogs.
+- [About](https://www.maamis.com/about): Our story, values, and the traditional preparation process.
+
+## Categories and product types
+
+- [Powdered Spices](https://www.maamis.com/products): Turmeric, red chili, coriander, cumin, sambar powder, garam masala, and more.
+- [Whole Spices](https://www.maamis.com/products): Black pepper, cumin seeds, cardamom, cloves, bay leaves, mustard seeds, cinnamon, and more.
+- [Masala Blends](https://www.maamis.com/products): Garam masala, chicken masala, biryani masala, sambar powder.
+- [Seasonings and Herbs](https://www.maamis.com/products): Curry leaves, dried mint, fenugreek.
+
+## Recipe highlights
+
+- [South Indian Sambar](https://www.maamis.com/recipes/south-indian-sambar): Tangy lentil and vegetable stew with roasted sambar powder.
+- [Chettinad Chicken](https://www.maamis.com/recipes/chettinad-chicken): Bold, fiery chicken curry loaded with roasted whole spices.
+- [Biryani Masala Rice](https://www.maamis.com/recipes/biryani-masala-rice): Aromatic one pot rice infused with biryani masala.
+- [Masala Chai](https://www.maamis.com/recipes/masala-chai): Spiced Indian tea simmered with cardamom, cloves, and ginger.
+- [Classic Rasam](https://www.maamis.com/recipes/classic-rasam): Peppery South Indian soup, light and bursting with flavor.
+- [Paneer Butter Masala](https://www.maamis.com/recipes/paneer-butter-masala): Creamy paneer in a rich tomato butter gravy with garam masala.
+
+## Stories
+
+- [The History of Indian Spices](https://www.maamis.com/recipes): From ancient trade routes to modern kitchens.
+- [Benefits of Turmeric](https://www.maamis.com/recipes): The golden spice and its wellness potential.
+- [How to Store Your Masalas](https://www.maamis.com/recipes): Keep spices fresh and aromatic longer.
+- [Health Benefits of Cumin](https://www.maamis.com/recipes): Digestion, immunity, and everyday wellness.
